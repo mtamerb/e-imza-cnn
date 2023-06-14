@@ -1,1 +1,1 @@
-![sign.png](..%2F..%2F..%2FPictures%2FScreenshots%2Fsign.png)
+![sign.png](res%2Fsign.png)
