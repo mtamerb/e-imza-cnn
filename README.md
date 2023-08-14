@@ -1,1 +1,0 @@
-![sign.png](res%2Fsign.png)
